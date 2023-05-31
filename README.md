@@ -3,7 +3,8 @@
 
 책임감있고 솔선수범하는 Backend 개발자 조원빈입니다.
 
-👩‍🎓 Incheon Univ. Information & Communication Engeering
+👩‍ SSAFY 6th (2021.07 ~ 2022.06)
+👩‍🎓 Incheon Univ. Information & Communication Engeering (2015.03 ~ 2021.08)
 
 # 📚 Skill
 
