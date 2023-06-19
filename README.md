@@ -34,7 +34,7 @@
 
 # 📃 Certificate
 
-- 정보처리기사(2023.04)
+- 정보처리기사(2023.06)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-wonbin&show_icons=true&theme=radical)
