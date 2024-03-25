@@ -22,7 +22,9 @@
 
 
 # 📂 Project
-
+- [우리동네 정보알림 커뮤니티 - WOORIDONGNAE](https://wooridongnae.store)
+  - 1인 풀스택 개발 프로젝트
+  - [깃허브](https://github.com/Jo-wonbin/SpringBootPracticeProject)
 - [IT 프로젝트 팀빌딩 서비스 - SSAFY MATE](https://github.com/ssafy-mate)
   - SSAFY 교육생을 위한 IT 프로젝트 팀빌딩 플랫폼 (2022)
 - [운동 처방 플랫폼 - SSAFIT](https://github.com/SSA-FIT)
@@ -34,8 +36,8 @@
 
 # 📃 Certificate
 
+- SQLD(2023.10)
 - 정보처리기사(2023.06)
-- SQLD(2023.07)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-wonbin&show_icons=true&theme=radical)
 
